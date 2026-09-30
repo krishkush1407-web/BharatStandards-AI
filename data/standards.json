@@ -1,0 +1,617 @@
+[
+  {
+    "id": "IS 10322:1982",
+    "title": "Luminaires \u2014 Particular requirements for floodlights",
+    "category": "Electrical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "led",
+      "street light",
+      "luminaire",
+      "lighting",
+      "outdoor",
+      "floodlight",
+      "ip66",
+      "ip65"
+    ],
+    "aliases": [
+      "street lamp",
+      "led fixture",
+      "road light"
+    ],
+    "requirements": [
+      "Ingress protection",
+      "Electrical safety and construction",
+      "Photometric performance and marking"
+    ],
+    "certification": [
+      "Verify applicable BIS/QCO"
+    ],
+    "related": [
+      "IS/IEC 60598 series"
+    ]
+  },
+  {
+    "id": "IS 16107:2012",
+    "title": "LED modules for general lighting \u2014 Performance requirements",
+    "category": "Electrical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "led",
+      "module",
+      "lighting",
+      "street light",
+      "lamp",
+      "driver"
+    ],
+    "aliases": [
+      "led module"
+    ],
+    "requirements": [
+      "LED module performance",
+      "Electrical characteristics",
+      "Testing and marking"
+    ],
+    "certification": [
+      "Check applicable BIS/QCO"
+    ],
+    "related": [
+      "IS 10322:1982"
+    ]
+  },
+  {
+    "id": "IS 16444:2015",
+    "title": "AC static direct connected watt-hour smart meter \u2014 Class 1 and 2",
+    "category": "Electrical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "smart meter",
+      "electricity meter",
+      "energy meter",
+      "single phase",
+      "meter"
+    ],
+    "aliases": [
+      "smart electricity meter"
+    ],
+    "requirements": [
+      "Accuracy class",
+      "Communication/display",
+      "Environmental and safety tests"
+    ],
+    "certification": [
+      "Verify applicable BIS certification/QCO"
+    ],
+    "related": [
+      "IS 13779",
+      "IS 15959"
+    ]
+  },
+  {
+    "id": "IS 7098 (Part 1):1988",
+    "title": "XLPE insulated PVC sheathed cables up to 1100 V",
+    "category": "Electrical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "xlpe",
+      "cable",
+      "underground",
+      "armoured cable",
+      "power cable",
+      "1100v"
+    ],
+    "aliases": [
+      "xlpe cable",
+      "armoured power cable"
+    ],
+    "requirements": [
+      "Conductor construction",
+      "XLPE insulation/PVC sheath",
+      "Voltage tests",
+      "Marking"
+    ],
+    "certification": [
+      "Check applicable BIS/QCO"
+    ],
+    "related": [
+      "IS 7098 series",
+      "IS 5831"
+    ]
+  },
+  {
+    "id": "IS 7098 (Part 2):1985",
+    "title": "XLPE insulated cables \u2014 3.3 kV up to and including 33 kV",
+    "category": "Electrical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "33kv",
+      "ht cable",
+      "xlpe",
+      "underground",
+      "armoured",
+      "power cable",
+      "33 kv"
+    ],
+    "aliases": [
+      "33kv xlpe cable",
+      "ht underground cable"
+    ],
+    "requirements": [
+      "Conductor/screen",
+      "XLPE insulation",
+      "High-voltage tests",
+      "Sheath and marking"
+    ],
+    "certification": [
+      "Check applicable high-voltage cable requirements"
+    ],
+    "related": [
+      "IS 7098 (Part 1):1988"
+    ]
+  },
+  {
+    "id": "IS 14286:2010",
+    "title": "Crystalline silicon terrestrial photovoltaic modules \u2014 Design qualification and type approval",
+    "category": "Renewable Energy",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "solar",
+      "pv",
+      "photovoltaic",
+      "mono perc",
+      "540wp",
+      "module",
+      "solar panel"
+    ],
+    "aliases": [
+      "solar panel",
+      "pv module"
+    ],
+    "requirements": [
+      "Design qualification",
+      "Environmental tests",
+      "Electrical performance and marking"
+    ],
+    "certification": [
+      "Verify applicable MNRE/BIS/QCO requirements"
+    ],
+    "related": [
+      "IS/IEC 61730 series"
+    ]
+  },
+  {
+    "id": "IS/IEC 61730-1:2016",
+    "title": "Photovoltaic module safety qualification \u2014 Construction requirements",
+    "category": "Renewable Energy",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "pv",
+      "solar",
+      "module",
+      "photovoltaic",
+      "safety",
+      "solar panel"
+    ],
+    "aliases": [
+      "pv safety"
+    ],
+    "requirements": [
+      "Construction safety",
+      "Protection against electric shock",
+      "Module construction checks"
+    ],
+    "certification": [
+      "Verify applicable conformity route"
+    ],
+    "related": [
+      "IS 14286:2010"
+    ]
+  },
+  {
+    "id": "IS 732:2019",
+    "title": "Code of Practice for Electrical Wiring Installations",
+    "category": "Electrical Safety",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "electrical installation",
+      "wiring",
+      "building",
+      "installation",
+      "safety",
+      "earthing"
+    ],
+    "aliases": [
+      "wiring code"
+    ],
+    "requirements": [
+      "Protection against electric shock",
+      "Wiring selection",
+      "Earthing and bonding",
+      "Inspection/testing"
+    ],
+    "certification": [
+      "Installation code; product certification is separate"
+    ],
+    "related": [
+      "IS 3043:2018"
+    ]
+  },
+  {
+    "id": "IS 3043:2018",
+    "title": "Code of Practice for Earthing",
+    "category": "Electrical Safety",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "earthing",
+      "grounding",
+      "electrical safety",
+      "substation",
+      "installation",
+      "surge"
+    ],
+    "aliases": [
+      "grounding",
+      "earth pit"
+    ],
+    "requirements": [
+      "Earthing conductor",
+      "Earth electrode",
+      "Touch/step voltage",
+      "Testing"
+    ],
+    "certification": [
+      "Verify project-specific statutory requirements"
+    ],
+    "related": [
+      "IS 732:2019"
+    ]
+  },
+  {
+    "id": "IS 16242 (Part 1):2014",
+    "title": "Uninterruptible Power Systems \u2014 General and safety requirements",
+    "category": "Electrical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "ups",
+      "uninterruptible power",
+      "10 kva",
+      "double conversion",
+      "vrla",
+      "battery",
+      "backup"
+    ],
+    "aliases": [
+      "ups system",
+      "online ups"
+    ],
+    "requirements": [
+      "Electrical safety",
+      "UPS performance",
+      "Protection/testing",
+      "Marking"
+    ],
+    "certification": [
+      "Verify applicable BIS conformity"
+    ],
+    "related": [
+      "IS 16242 series"
+    ]
+  },
+  {
+    "id": "IS 13369:1992",
+    "title": "Stationary lead-acid batteries \u2014 General requirements",
+    "category": "Electrical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "battery",
+      "vrla",
+      "lead acid",
+      "ups",
+      "backup",
+      "stationary battery"
+    ],
+    "aliases": [
+      "vrla battery"
+    ],
+    "requirements": [
+      "Capacity/performance",
+      "Construction",
+      "Safety and marking",
+      "Tests"
+    ],
+    "certification": [
+      "Verify applicable product certification/QCO"
+    ],
+    "related": [
+      "IS 16242 (Part 1):2014"
+    ]
+  },
+  {
+    "id": "IS 1239 (Part 1):2004",
+    "title": "Steel Tubes for Water and Gas \u2014 Screwed and Socketed Steel Tubes",
+    "category": "Civil / Plumbing",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "steel pipe",
+      "water supply",
+      "pipe",
+      "tube",
+      "plumbing",
+      "grade"
+    ],
+    "aliases": [
+      "water pipe",
+      "steel tube"
+    ],
+    "requirements": [
+      "Dimensions",
+      "Material/workmanship",
+      "Hydrostatic testing",
+      "Marking"
+    ],
+    "certification": [
+      "Verify applicable BIS certification/QCO"
+    ],
+    "related": [
+      "IS 1239 series"
+    ]
+  },
+  {
+    "id": "IS 1786:2008",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement",
+    "category": "Civil",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "steel bar",
+      "tmt",
+      "reinforcement",
+      "rebar",
+      "concrete",
+      "fe500",
+      "fe550"
+    ],
+    "aliases": [
+      "tmt bar",
+      "rebar"
+    ],
+    "requirements": [
+      "Chemical composition",
+      "Mechanical properties",
+      "Bend/rebend tests",
+      "Dimensions/marking"
+    ],
+    "certification": [
+      "Verify applicable BIS certification/QCO"
+    ],
+    "related": [
+      "IS 456:2000"
+    ]
+  },
+  {
+    "id": "IS 456:2000",
+    "title": "Plain and Reinforced Concrete \u2014 Code of Practice",
+    "category": "Civil",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "concrete",
+      "reinforced concrete",
+      "building",
+      "civil",
+      "structure",
+      "rebar"
+    ],
+    "aliases": [
+      "rcc code"
+    ],
+    "requirements": [
+      "Materials",
+      "Structural design",
+      "Durability",
+      "Construction/workmanship"
+    ],
+    "certification": [
+      "Design/construction code"
+    ],
+    "related": [
+      "IS 1786:2008"
+    ]
+  },
+  {
+    "id": "IS 302 (Part 1):2008",
+    "title": "Safety of Household and Similar Electrical Appliances \u2014 General Requirements",
+    "category": "Consumer Electrical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "electrical appliance",
+      "safety",
+      "household",
+      "appliance",
+      "shock",
+      "insulation"
+    ],
+    "aliases": [
+      "home appliance"
+    ],
+    "requirements": [
+      "Protection against electric shock",
+      "Heating",
+      "Insulation",
+      "Abnormal operation"
+    ],
+    "certification": [
+      "Check product-specific Part 2 and QCO"
+    ],
+    "related": [
+      "IS 302 Part 2 series"
+    ]
+  },
+  {
+    "id": "IS 13428:2022",
+    "title": "Packaged Natural Mineral Water \u2014 Specification",
+    "category": "Food & Water",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "packaged water",
+      "mineral water",
+      "drinking water",
+      "bottled water",
+      "water"
+    ],
+    "aliases": [
+      "bottled water"
+    ],
+    "requirements": [
+      "Physical requirements",
+      "Chemical requirements",
+      "Microbiological requirements",
+      "Packaging/labelling"
+    ],
+    "certification": [
+      "Verify BIS and FSSAI requirements"
+    ],
+    "related": [
+      "IS 10500:2012"
+    ]
+  },
+  {
+    "id": "IS 10500:2012",
+    "title": "Drinking Water \u2014 Specification",
+    "category": "Food & Water",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "drinking water",
+      "potable water",
+      "water quality",
+      "chemical",
+      "microbiological"
+    ],
+    "aliases": [
+      "potable water"
+    ],
+    "requirements": [
+      "Physical parameters",
+      "Chemical parameters",
+      "Microbiological quality"
+    ],
+    "certification": [
+      "Use with applicable water regulations"
+    ],
+    "related": [
+      "IS 13428:2022"
+    ]
+  },
+  {
+    "id": "IS 13450:1992",
+    "title": "Phototherapy Equipment \u2014 Particular Requirements",
+    "category": "Medical",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "medical equipment",
+      "phototherapy",
+      "hospital",
+      "patient",
+      "medical device"
+    ],
+    "aliases": [
+      "medical equipment"
+    ],
+    "requirements": [
+      "Electrical safety",
+      "Mechanical safety",
+      "Performance checks",
+      "Marking"
+    ],
+    "certification": [
+      "Verify CDSCO/BIS requirements"
+    ],
+    "related": [
+      "IS 13450 series"
+    ]
+  },
+  {
+    "id": "IS 9473:2002",
+    "title": "Disposable Respiratory Protective Devices",
+    "category": "PPE / Safety",
+    "status": "Active / verify latest edition",
+    "keywords": [
+      "mask",
+      "respiratory",
+      "ppe",
+      "safety",
+      "protective device",
+      "n95"
+    ],
+    "aliases": [
+      "respirator",
+      "protective mask"
+    ],
+    "requirements": [
+      "Filtration performance",
+      "Breathing resistance",
+      "Leakage",
+      "Marking"
+    ],
+    "certification": [
+      "Verify BIS/QCO and occupational safety requirements"
+    ],
+    "related": [
+      "PPE standards"
+    ]
+  },
+  {
+    "id": "IS 16014:2012",
+    "title": "Water Efficiency Labelling \u2014 General Requirements",
+    "category": "Water Efficiency",
+    "status": "Prototype index record",
+    "keywords": [
+      "water efficiency",
+      "tap",
+      "fixture",
+      "sanitary",
+      "water saving"
+    ],
+    "aliases": [
+      "water saving",
+      "efficient tap"
+    ],
+    "requirements": [
+      "Flow-rate performance",
+      "Labelling information",
+      "Test conditions"
+    ],
+    "certification": [
+      "Verify current applicable scheme"
+    ],
+    "related": [
+      "IS 1172"
+    ]
+  },
+  {
+    "id": "IS 8144:1976",
+    "title": "High Visibility Safety Garments \u2014 Prototype Procurement Reference",
+    "category": "PPE / Safety",
+    "status": "Prototype index record",
+    "keywords": [
+      "safety jacket",
+      "high visibility",
+      "ppe",
+      "reflective",
+      "road worker"
+    ],
+    "aliases": [
+      "reflective jacket",
+      "safety vest"
+    ],
+    "requirements": [
+      "Visibility",
+      "Reflective material",
+      "Marking"
+    ],
+    "certification": [
+      "Verify current applicable PPE standard"
+    ],
+    "related": [
+      "PPE standards"
+    ]
+  }
+]
